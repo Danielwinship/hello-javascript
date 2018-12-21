@@ -1,6 +1,4 @@
-var name = "Jack";
-var age = 23;
+if (1 == 1) {
+    console.log("we should see this");
+}
 
-var message = "Hi, my name is " + name + " and I am " + age + " years old!";
-
-console.log(message);
